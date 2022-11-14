@@ -1,1 +1,1 @@
-# simularium-ideas
+# simularium-planning
