@@ -11,4 +11,4 @@ jobs:
       - uses: actions/add-to-project@8f59162ff6331da7cfb994cdfdea456d39c0c9bf
         with:
           project-url: https://github.com/orgs/simularium/projects/5
-          github-token: ${{ secrets.SIMULARIUM }}
+          github-token: ${{ secrets.ADD_ISSUE_PAT }}
